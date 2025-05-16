@@ -22,7 +22,7 @@
 ![VPC Creation](screenshots/publicSubnet.png)
 - **Private Subnet**: `10.0.2.0/24`  
 ![VPC Creation](screenshots/privateSubnet.png)
-- **Region/Zone**: e.g., `ap-south-1`  
+- **Region/Zone**: `ap-south-1`  
 
 
 ---
