@@ -13,7 +13,8 @@
 ### 1. Create a VPC
 - **Action**: Created a custom VPC with CIDR `10.0.0.0/16`
 - **Option Enabled**: DNS hostnames  
-**📷 Screenshot**: *Insert screenshot of VPC creation*
+**📷 Screenshot**: 
+![VPC Creation](screenshots/vpc1.png)
 
 ---
 
